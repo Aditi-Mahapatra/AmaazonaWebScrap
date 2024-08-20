@@ -1,4 +1,5 @@
 Amazon Product Scraper
+
 This project is a Python-based web scraper that extracts product information from Amazon, including product titles, prices, ratings, reviews, and availability status. The data is then saved into a CSV file for further analysis.
 
 Table of Contents
